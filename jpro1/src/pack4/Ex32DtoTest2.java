@@ -47,6 +47,7 @@ public class Ex32DtoTest2 {
 		test2.displayDate();
 		
 
+		System.out.println();
 	}
 
 }
